@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WAZ</string>
+    <string name="link1">
+        <a href = "https://www.youtube.com/watch?v=pR74GPeZaCU">Delwar Hossain Sayeedi</a>
+    </string>
+
+</resources>
